@@ -59,8 +59,6 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="[https://i.imgur.com/coec3iU.png](https://imgur.com/gallery/spigotmc-I4Qq8QU#aIzUkBf)" alt="Spigot" width="50" height="50"/>
-  <img src="https://i.imgur.com/Um2Av9K.png" alt="PaperMC" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
