@@ -27,7 +27,7 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
       </a>
     </td>
     <td width="50%" style="padding: 15px; transition: transform 0.2s;">
-      <a href="https://github.com/Devzinh/DevMotd" target="_blank" style="display: block;">
+      <a href="https://github.com/Devzinh/DevModt" target="_blank" style="display: block;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevMotd&theme=tokyonight&show_owner=true" alt="DevMotd Repository" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); width: 100%; max-width: 300px;" />
       </a>
     </td>
