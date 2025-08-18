@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Nossos Plugins e Códigos-Fonte (Sources)
+## 🚀 Nossos Plugins e Códigos-Fonte
 
 Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se à vontade para explorar, estudar e usar como referência.
 
@@ -46,7 +46,7 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
 
 ---
 
-### ✨ Por que escolher a DevPlugins?
+## ✨ Por que escolher a DevPlugins?
 
 - **Qualidade de Código:** Focamos em criar códigos limpos, documentados e fáceis de manter.
 - **Performance:** Nossos plugins são otimizados para garantir o mínimo impacto no desempenho do seu servidor.
@@ -55,7 +55,7 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
 
 ---
 
-### 🛠️ Tecnologias que Utilizamos
+## 🛠️ Tecnologias que Utilizamos
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -67,7 +67,7 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
 
 ---
 
-### 💬 Contato e Orçamentos
+## 💬 Contato e Orçamentos
 
 Precisa de um plugin exclusivo ou quer fazer um orçamento? Entre em contato conosco!
 
