@@ -68,12 +68,3 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
 </p>
-
----
-
-## 💬 Contato e Orçamentos
-
-Precisa de um plugin exclusivo ou quer fazer um orçamento? Entre em contato conosco!
-
-- **Discord:** [Link para o Servidor da DevPlugins](https://discord.gg/bdxGxCbqCj)
-- **Email:** `ronygabmc@gmail.com`
