@@ -28,7 +28,7 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
     </td>
     <td width="50%">
       <a href="LINK_PARA_O_REPOSITORIO_DO_PLUGIN_2">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_2&theme=tokyonight&show_owner=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevMotd&theme=tokyonight&show_owner=true" />
       </a>
     </td>
   </tr>
