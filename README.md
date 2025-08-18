@@ -19,27 +19,25 @@
 
 Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se à vontade para explorar, estudar e usar como referência.
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; text-align: center; font-family: Arial, sans-serif; background-color: #1e1e2f;">
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Devzinh/DevTicket">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevTicket&theme=tokyonight&show_owner=true" />
+    <td width="50%" style="padding: 15px; transition: transform 0.2s;">
+      <a href="https://github.com/Devzinh/DevTicket" target="_blank" style="display: block;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevTicket&theme=tokyonight&show_owner=true" alt="DevTicket Repository" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); width: 100%; max-width: 300px;" />
       </a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Devzinh/DevModt">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevMotd&theme=tokyonight&show_owner=true" />
+    <td width="50%" style="padding: 15px; transition: transform 0.2s;">
+      <a href="https://github.com/Devzinh/DevMotd" target="_blank" style="display: block;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevMotd&theme=tokyonight&show_owner=true" alt="DevMotd Repository" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); width: 100%; max-width: 300px;" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <p align="center">Mais projetos em breve!</p>
+    <td width="50%" style="padding: 15px; transition: transform 0.2s;">
+      <p style="font-size: 1.2em; font-weight: bold; color: #ffd700; text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">Mais Plugins OpenSource em breve...</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p align="center">Mais projetos em breve!</p>
+    <td width="50%" style="padding: 15px; vertical-align: middle;">
+      <p style="font-size: 1.2em; font-weight: bold; color: #ffd700; text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">Mais Plugins OpenSource em breve...</p>
     </td>
   </tr>
 </table>
