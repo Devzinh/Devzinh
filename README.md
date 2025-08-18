@@ -68,3 +68,5 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
 </p>
+
+---
