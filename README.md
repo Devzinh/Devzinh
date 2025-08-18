@@ -59,8 +59,8 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/99184393/183095322-2201a243-7865-410a-83b2-f3f2d77d24a5.png" alt="Spigot" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/85592533" alt="PaperMC" width="50" height="50"/>
+  <img src="https://cdn.spigotmc.org/styles/spigot/xenforo/logo.png" alt="Spigot" width="50" height="50"/>
+  <img src="https://papermc.io/images/logo.svg" alt="PaperMC" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
