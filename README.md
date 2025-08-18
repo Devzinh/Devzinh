@@ -17,35 +17,31 @@
 
 ## 🚀 Nossos Plugins e Códigos-Fonte
 
-Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se à vontade para explorar, estudar e usar como referência.
+<div style="font-family: Arial, sans-serif; color: #ffffff; background-color: #1e1e2f; padding: 20px; border-radius: 12px;">
+  <p style="font-size: 1.1em; margin-bottom: 20px;">Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se à vontade para explorar, estudar e usar como referência.</p>
 
-<table width="100%" style="border-collapse: collapse; text-align: center; font-family: Arial, sans-serif; background-color: #1e1e2f;">
-  <tr>
-    <td width="50%" style="padding: 15px; transition: transform 0.2s;">
-      <a href="https://github.com/Devzinh/DevTicket" target="_blank" style="display: block;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevTicket&theme=tokyonight&show_owner=true" alt="DevTicket Repository" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); width: 100%; max-width: 300px;" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="padding: 15px; transition: transform 0.2s;">
-      <a href="https://github.com/Devzinh/DevModt" target="_blank" style="display: block;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevMotd&theme=tokyonight&show_owner=true" alt="DevMotd Repository" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); width: 100%; max-width: 300px;" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="padding: 15px; transition: transform 0.2s;">
-      <p style="font-size: 1.2em; font-weight: bold; color: #ffd700; text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">Mais Plugins OpenSource em breve...</p>
-    </td>
-   </tr>
-  <tr>
-    <td width="50%" style="padding: 15px; vertical-align: middle;">
-      <p style="font-size: 1.2em; font-weight: bold; color: #ffd700; text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">Mais Plugins OpenSource em breve...</p>
-    </td>
-  </tr>
-</table>
-
+  <table width="100%" style="border-collapse: collapse; text-align: center;">
+    <tr>
+      <td style="padding: 15px; transition: transform 0.2s;">
+        <a href="https://github.com/Devzinh/DevTicket" target="_blank" style="display: block;">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevTicket&theme=tokyonight&show_owner=true" alt="DevTicket Repository" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); width: 100%; max-width: 300px;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; transition: transform 0.2s;">
+        <a href="https://github.com/Devzinh/DevModt" target="_blank" style="display: block;">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevMotd&theme=tokyonight&show_owner=true" alt="DevMotd Repository" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); width: 100%; max-width: 300px;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; vertical-align: middle;">
+        <p style="font-size: 1.2em; font-weight: bold; color: #ffd700; text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">Mais Plugins OpenSource em breve...</p>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## ✨ Por que escolher a DevPlugins?
