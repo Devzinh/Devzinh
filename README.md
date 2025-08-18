@@ -37,6 +37,11 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
       <p align="center">Mais projetos em breve!</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <p align="center">Mais projetos em breve!</p>
+    </td>
+  </tr>
 </table>
 
 ---
