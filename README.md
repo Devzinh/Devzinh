@@ -48,24 +48,14 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
 
 Temos o orgulho de ter nossos plugins rodando em servidores incríveis. Confira!
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center">Servidor</th>
-      <th align="center">IP para Conectar</th>
-      <th align="center">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>NostalCraft</strong></td>
-      <td align="center"><code>nostalcraft.urubuhost.com.br</code></td>
-      <td align="center">
-        <img src="https://img.shields.io/minecraft/server-online/nostalcraft.urubuhost.com.br?style=for-the-badge&label=Status" alt="Status do Servidor"/>
-      </td>
-    </tr>
-    </tbody>
-</table>
+<div align="center">
+  <a href="https://minecraft-mp.com/server-s347298" target="_blank">
+    <img src="https://minecraft-mp.com/banner/347298/banner.gif" alt="Banner do Servidor NostalCraft"/>
+  </a>
+  <p>
+    <strong>IP:</strong> <code>nostalcraft.urubuhost.com.br</code>
+  </p>
+</div>
 
 ---
 
