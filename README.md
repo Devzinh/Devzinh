@@ -50,7 +50,7 @@ Temos o orgulho de ter nossos plugins rodando em servidores incríveis. Confira!
 
 <div align="center">
   <a href="https://minecraft-mp.com/server-s347298" target="_blank">
-    <img src="https://minecraft-mp.com/banner/347298/banner.gif" alt="Banner do Servidor NostalCraft"/>
+    <img src="https://minecraft-mp.com/images/banners/banner-347298-1754865491.jpg" alt="Banner do Servidor NostalCraft"/>
   </a>
   <p>
     <strong>IP:</strong> <code>nostalcraft.urubuhost.com.br</code>
