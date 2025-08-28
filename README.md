@@ -8,7 +8,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Status-Ativos_e_Desenvolvendo-brightgreen?style=for-the-badge" alt="Status: Ativos"/>
-    <img src="https://img.shields.io/badge/Versão_Suportada-1.16_a_1.20+-blue?style=for-the-badge" alt="Versões Suportadas"/>
+    <img src="https://img.shields.io/badge/Versão_Suportada-ALL+-blue?style=for-the-badge" alt="Versões Suportadas"/>
     <a href="https://discord.gg/bdxGxCbqCj"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Link do Discord"/></a>
   </p>
 </div>
@@ -71,10 +71,22 @@ Temos o orgulho de ter nossos plugins rodando em servidores incríveis. Confira!
 ## 🛠️ Tecnologias que Utilizamos
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <a href="https://dev.java/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  </a>
 </p>
+
+### 📚 Documentação das Tecnologias
+
+- **[Java](https://dev.java/)** – Usado para desenvolver plugins e sistemas backend.  
+- **[MySQL](https://dev.mysql.com/doc/)** – Banco de dados relacional para armazenar dados persistentes.  
+- **[Git](https://git-scm.com/doc)** – Sistema de controle de versão para gerenciar o código-fonte.
 
 ---
 
