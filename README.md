@@ -31,15 +31,12 @@ Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se 
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevTicket&theme=tokyonight&show_owner=true" />
       </a>
     </td>
-        <td width="50%">
-      <a href="https://github.com/Devzinh/DevReview">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevTicket&theme=tokyonight&show_owner=true" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <p align="center">Mais projetos em breve!</p>
+      <a href="https://github.com/Devzinh/DevReview">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevTicket&theme=tokyonight&show_owner=true" />
+      </a>
     </td>
     <td width="50%">
       <p align="center">Mais projetos em breve!</p>
