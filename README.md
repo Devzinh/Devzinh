@@ -120,8 +120,8 @@ const devzinh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura">
-    <img src="https://github-profile-trophy.vercel.app/?username=Devzinh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Devzinh&theme=aura&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -139,10 +139,10 @@ const devzinh = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r0ny.021/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lookplays7@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/363501186349006849)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-discord)
 
 </div>
 
