@@ -163,5 +163,19 @@ const devzinh = {
 ║                                                                      ║
 ║   💜 Feito com amor e muito café por Rony Gabriel                   ║
 ║                                                                      ║
+
+---
+
+## 🐍 Jogo da Cobra
+
+Veja meu gráfico de contribuições transformado em um jogo interativo da cobra!
+
+<div align="center">
+
+![snake svg](https://raw.githubusercontent.com/Devzinh/My-Profile/output/github-snake-dark.svg?palette=github-dark)
+
+</div>
+
+---
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
