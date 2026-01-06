@@ -120,7 +120,7 @@ const devzinh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura">
     <img src="https://github-profile-trophy.vercel.app/?username=Devzinh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
