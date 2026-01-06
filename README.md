@@ -93,4 +93,39 @@ Meu objetivo é me tornar um **engenheiro de software competente**, capaz de cri
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Devzinh.Devzinh)
 
+
+---
+
+## 👋 Perfis que me Inspiram
+
+Analisei gitHubs de engenheiros de software experientes para elevar meu perfil. Aqui estão alguns que me inspiram:
+
+### 🌠 Engenheiros Renomados
+
+- **[Eddie Jaoude](https://github.com/eddiejaoude)** - GitHub Star, Digital Nomad, especialista em Open Source
+  - 🔍 Aprendi: Seleção de projectos em destaque, engajamento em comunidades
+  
+- **[Cahllagerfeld](https://github.com/Cahllagerfeld)** - TypeScript Developer, Full-stack
+  - 🔍 Aprendi: Design visual profissional, descrição clara de habilidades
+  
+- **[Naomi Carrigan](https://github.com/naomi-lgbt)** - Senior Software Engineer, Community Growth
+  - 🔍 Aprendi: Destaque em mentoria e comunidade, clareza em propósito
+  
+- **[Marcos Junior](https://github.com/codermarcos)** - Software Engineer (Brasil)
+  - 🔍 Aprendi: Organização de repositórios com descrições, badges de contato
+
+### 🚟 Padrões Identificados
+
+1. **Bio Clara e Direta**: Todos têm uma frase impactante que define quem são
+2. **Projeto de Destaque**: Mostram seus melhores trabalhos em "Pinned"
+3. **Badges e Ícones**: Usam visuais para destacar tecnologias e contato
+4. **Descrição de Projetos**: Cada repositório tem uma descrição clara e tópicos
+5. **Seção de "Aprendendo"**: Mostram humildade e disposição para crescer
+6. **Links Estratégicos**: LinkedIn, Blog, YouTube, Redes Sociais bem organizadas
+7. **Comunidade & Mentoria**: Enfatizam contribuição open-source e ajuda a outros
+
+### 🚀 Minha Jornada de Melhoria
+
+Estou aplicando esses padrões para melhorar meu perfil de forma **autêntica e similar**, não cópia. Cada desenvolvedor tem seu estilo único! 🙋‍♀️
+
 </div>
