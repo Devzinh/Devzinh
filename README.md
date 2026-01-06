@@ -116,17 +116,6 @@ const devzinh = {
 
 <br/>
 
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Devzinh&theme=aura&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
 <!-- Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Random Dev Quote" />
