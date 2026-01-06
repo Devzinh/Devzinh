@@ -34,7 +34,7 @@ const devzinh = {
     
     hobbies: ["Programar", "Games", "Música"],
     
-    mensagem: "Transformando café ☕ em código desde 2024!"
+    mensagem: "Transformando café ☕ em código desde 2026!"
 };
 ```
 
@@ -102,8 +102,6 @@ const devzinh = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Devzinh/Devzinh/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-> 💡 **Dica:** Para ativar a animação da cobra, configure o [GitHub Action Snake](https://github.com/Platane/snk) no seu repositório!
 
 <br/>
 
