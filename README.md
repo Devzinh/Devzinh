@@ -1,99 +1,96 @@
+# 👋 Olá, sou Devzinh
+
 <div align="center">
 
-  <img src="https://share.creavite.co/68a367275dad16023040dfe9.gif" alt="Banner da DevPlugins Studio"/>
+### 💻 Desenvolvedor & Estudante de Engenharia de Software
 
-  <h1>Bem-vindo à DevPlugins Studio!</h1>
-  <p><strong>Plugins de Minecraft de alta performance com código aberto e preços acessíveis.</strong></p>
-  <p>Transformamos ideias em plugins poderosos, estáveis e otimizados para o seu servidor.</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devzinh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
-  <p>
-    <img src="https://img.shields.io/badge/Status-Ativos_e_Desenvolvendo-brightgreen?style=for-the-badge" alt="Status: Ativos"/>
-    <img src="https://img.shields.io/badge/Versão_Suportada-ALL+-blue?style=for-the-badge" alt="Versões Suportadas"/>
-    <a href="https://discord.gg/bdxGxCbqCj"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Link do Discord"/></a>
-  </p>
 </div>
 
 ---
 
-## 🚀 Nossos Plugins e Códigos-Fonte
+## 🚀 Sobre Mim
 
-Aqui você encontrará os códigos-fonte de alguns de nossos projetos. Sinta-se à vontade para explorar, estudar e usar como referência.
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Devzinh/DevModt">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevModt&theme=tokyonight&show_owner=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Devzinh/DevTicket">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevTicket&theme=tokyonight&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Devzinh/DevReview">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=DevReview&theme=tokyonight&show_owner=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <p align="center">Mais projetos em breve!</p>
-    </td>
-  </tr>
-</table>
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou aprendendo engenharia de software e contribuindo com projetos para aprimorar minhas habilidades. Foco em **qualidade de código**, **boas práticas** e **desenvolvimento colaborativo**.
 
 ---
 
-## ✨ Nossos Clientes
-
-Temos o orgulho de ter nossos plugins rodando em servidores incríveis. Confira!
+## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <a href="https://minecraft-mp.com/server-s347298" target="_blank">
-    <img src="https://minecraft-mp.com/images/banners/banner-347298-1754865491.jpg" alt="Banner do Servidor NostalCraft"/>
-  </a>
-  <p>
-    <strong>IP:</strong> <code>nostalcraft.urubuhost.com.br</code>
-  </p>
+
+### Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Ferramentas & Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 ---
 
-## ⭐ Por que escolher a DevPlugins?
+## 📊 Estatísticas GitHub
 
-- **Qualidade de Código:** Focamos em criar códigos limpos, documentados e fáceis de manter.
-- **Performance:** Nossos plugins são otimizados para garantir o mínimo impacto no desempenho do seu servidor.
-- **Preços Acessíveis:** Oferecemos soluções de alta qualidade por um valor justo.
-- **Suporte:** Damos atenção à comunidade e oferecemos suporte através do nosso Discord.
+<div align="center">
 
----
+![Devzinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devzinh&show_icons=true&theme=tokyonight&count_private=true)
 
-## 🛠️ Tecnologias que Utilizamos
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devzinh&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <a href="https://dev.java/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://dev.mysql.com/doc/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/doc">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  </a>
-</p>
-
-### 📚 Documentação das Tecnologias
-
-- **[Java](https://dev.java/)** – Usado para desenvolver plugins e sistemas backend.  
-- **[MySQL](https://dev.mysql.com/doc/)** – Banco de dados relacional para armazenar dados persistentes.  
-- **[Git](https://git-scm.com/doc)** – Sistema de controle de versão para gerenciar o código-fonte.
+</div>
 
 ---
 
-## 💬 Contato e Orçamentos
+## 📌 Projetos em Destaque
 
-Precisa de um plugin exclusivo ou quer fazer um orçamento? Entre em contato conosco!
+<div align="center">
 
-- **Email:** `ronygabmc@gmail.com`
+[![DevPlugins](https://github-readme-stats.vercel.app/api/pin/?username=Devzinh&repo=Devzinh&theme=tokyonight&show_owner=true)](https://github.com/Devzinh/Devzinh)
+
+</div>
+
+---
+
+## 🎓 Atualmente Aprendendo
+
+- ✅ Padrões de Design (Design Patterns)
+- ✅ Arquitetura de Software
+- ✅ Desenvolvimento Backend
+- ✅ Banco de Dados (SQL & NoSQL)
+- ✅ DevOps e CI/CD
+
+---
+
+## 💡 Objetivo
+
+Meu objetivo é me tornar um **engenheiro de software competente**, capaz de criar soluções escaláveis, eficientes e bem arquitetadas. Acredito em aprendizado contínuo e colaboração em projetos open-source.
+
+---
+
+## 📞 Conecte-se Comigo
+
+- 💼 **LinkedIn**: [Seu Perfil](https://linkedin.com)
+- 📧 **Email**: seu-email@gmail.com
+- 🐙 **GitHub**: [@Devzinh](https://github.com/Devzinh)
+- 💬 **Discord**: [Seu Servidor](https://discord.gg/seu-servidor)
+
+---
+
+<div align="center">
+
+### ⭐ Se gostou dos meus projetos, considere deixar uma estrela!
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Devzinh.Devzinh)
+
+</div>
