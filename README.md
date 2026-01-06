@@ -1,9 +1,6 @@
-# \ud83d\udc4b Ol\u00e1, sou Devzinh
-
-<div align="center">
+# 👋 Olá, sou Devzinhter">
 
 ### \ud83d\udcbb Full-Stack Developer | \ud83d\udcab Estudante de Engenharia de Software
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devzinh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
@@ -12,8 +9,7 @@
 
 ---
 
-## \ud83d\ude9f Sobre Mim
-
+## 🙋‍♀️ Sobre Mim
 ```javascript
 const devzinh = {
   nome: "Rony Gabriel",
@@ -29,9 +25,7 @@ const devzinh = {
 
 ---
 
-## \ud83d\udee0\ufe0f Stack Tecnol\u00f3gico
-
-<div align="center">
+## 🛠️ Stack Tecnológicoiv align="center">
 
 ### Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
