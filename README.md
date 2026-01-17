@@ -84,8 +84,6 @@ const devzinh = {
   </picture>
 </div>
 
-> 💡 **Dica:** Para ativar a animação da cobra, configure o [GitHub Action Snake](https://github.com/Platane/snk) no seu repositório!
-
 <br/>
 
 ## 📈 Gráfico de Atividade
