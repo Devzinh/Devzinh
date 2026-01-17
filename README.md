@@ -62,29 +62,22 @@ const devzinh = {
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Devzinh">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devzinh&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Devzinh github stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Devzinh">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devzinh&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Devzinh top languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Devzinh">
-        <img src="https://streak-stats.demolab.com?user=Devzinh&theme=midnight-purple&hide_border=true&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&background=0D1117" alt="Devzinh streak stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Devzinh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devzinh&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Devzinh github stats" />
+  </a>
+  <a href="https://github.com/Devzinh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devzinh&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Devzinh top languages" />
+  </a>
+</div>
 
 <br/>
+
+<div align="center">
+  <a href="https://github.com/Devzinh">
+    <img src="https://streak-stats.demolab.com?user=Devzinh&theme=midnight-purple&hide_border=true&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&background=0D1117" alt="Devzinh streak stats" />
+  </a>
+</div>
 
 ## 🐍 Contribuições
 
