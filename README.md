@@ -69,11 +69,6 @@ const devzinh = {
   <a href="https://github.com/Devzinh">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devzinh&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Devzinh top languages" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/Devzinh">
     <img src="https://streak-stats.demolab.com?user=Devzinh&theme=midnight-purple&hide_border=true&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&background=0D1117" alt="Devzinh streak stats" />
   </a>
