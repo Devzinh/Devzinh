@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,20&height=180&section=header&text=Rony%20Gabriel&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20Systems&descSize=16&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,20&height=180&section=header&text=Rony%20Gabriel&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineering%20Student&descSize=18&descAlignY=55"
     alt="Rony Gabriel - Header"
   />
 
