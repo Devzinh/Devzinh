@@ -1,53 +1,74 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,20&height=180&section=header&text=Rony%20Gabriel&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineering%20Student&descSize=18&descAlignY=55"
+    src="./assets/profile-header.svg"
     alt="Rony Gabriel - Header"
   />
+
   <p>
     <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">
       <img src="https://img.shields.io/badge/LinkedIn-Rony_Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+    </a>
+    <a href="mailto:lookplays7@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
     </a>
     <img src="https://img.shields.io/badge/Open_to_Work-Ready_for_Hire-success?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work badge" />
   </p>
 </div>
 
-## 👨‍💻 About Me / Sobre Mim
+## 👋 About Me / Sobre Mim
 
-🇧🇷 Olá, sou o **Rony**. Sou estudante de Engenharia de Software e atuo profissionalmente como Operador de Controle de Tráfego Portuário.
+🇧🇷 Olá! Eu sou o **Rony Gabriel**.
+Sou estudante de **Engenharia de Software** e atuo como **Operador de Controle de Tráfego Portuário**.
+No meu dia a dia, trabalho com operações críticas e alta responsabilidade — experiência que fortaleceu disciplina, foco, comunicação e tomada de decisão sob pressão.
 
-🇺🇸 Hello, I'm **Rony**. I’m a Software Engineering student and I work as a Port Traffic Controller.
-
-I coordinate critical, high-stakes operations (12h shifts), which strengthened my discipline, precision, and ownership—traits I bring to software development.
-
-My technical focus is Backend and Systems Programming, with an interest in “under the hood” topics (C++, Python, Architecture).
+🇺🇸 Hi! I'm **Rony Gabriel**.
+I'm a **Software Engineering** student and currently work as a **Port Traffic Controller**.
+Handling high-stakes operations helped me build strong discipline, ownership, and attention to detail — qualities I bring into software development.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🎯 Professional Goal / Objetivo Profissional
 
-| **Core Focus (Systems & Backend)** | **Web & Fullstack** | **Tools & DevOps** |
-|:---:|:---:|:---:|
-| <div align="center">
-<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a><br />
+🇧🇷 Busco oportunidades para atuar com **Backend** e **programação de sistemas**, criando soluções robustas, seguras e bem estruturadas.
+
+🇺🇸 I’m looking for opportunities in **Backend** and **Systems Programming**, focused on building robust, secure, and well-structured solutions.
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+### Languages
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-</div> | <div align="center">
-<a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a><br />
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></a>
-</div> | <div align="center">
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a><br />
+
+### Tools & Workflow
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-</div> |
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+</div>
 
 ---
 
-## 🎓 Academic Focus / Foco Acadêmico
+## 📚 Current Studies / Estudos Atuais
 
-Currently deepening my knowledge in / Atualmente aprofundando:
+- 🏗️ **Software Architecture** & Clean Code
+- 🔐 **Security Fundamentals** and low-level analysis
+- 🐍 **Python automation** for productivity workflows
+- ⚙️ **Data structures and performance-oriented thinking**
 
-- 🏗️ Software Architecture & Clean Code
-- 🔐 System Security & Low-level Analysis
-- 🐍 Python Automation
-- ⚡ C++ Data Structures
+---
+
+## 🧩 Highlights / Diferenciais
+
+- ✅ Experiência profissional em ambiente de alta criticidade
+- ✅ Perfil disciplinado e orientado a processo
+- ✅ Facilidade para aprender e evoluir com feedback
+- ✅ Interesse genuíno em fundamentos de computação
 
 ---
 
@@ -85,9 +106,6 @@ Currently deepening my knowledge in / Atualmente aprofundando:
 </div>
 
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,20&height=100&section=footer"
-    alt="Footer"
-  />
+  <sub>🚀 Sempre aberto a conexões, colaborações e oportunidades.</sub>
 </div>
+
