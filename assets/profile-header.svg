@@ -1,0 +1,18 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rony Gabriel profile header</title>
+  <desc id="desc">Software Engineering Student | Backend &amp; Systems</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4E1B8E"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#2A0E4E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <circle cx="150" cy="130" r="82" fill="white" fill-opacity="0.08"/>
+  <circle cx="1025" cy="55" r="42" fill="white" fill-opacity="0.12"/>
+  <circle cx="1085" cy="198" r="58" fill="white" fill-opacity="0.08"/>
+
+  <text x="210" y="118" fill="white" font-size="56" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="700">Rony Gabriel</text>
+  <text x="210" y="168" fill="#E9D5FF" font-size="28" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="500">Software Engineering Student | Backend &amp; Systems</text>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,20&height=180&section=header&text=Rony%20Gabriel&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineering%20Student&descSize=18&descAlignY=55"
+    src="./assets/profile-header.svg"
     alt="Rony Gabriel - Header"
   />
 
@@ -109,10 +109,3 @@ Handling high-stakes operations helped me build strong discipline, ownership, an
   <sub>🚀 Sempre aberto a conexões, colaborações e oportunidades.</sub>
 </div>
 
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,20&height=100&section=footer"
-    alt="Footer"
-  />
-</div>
