@@ -25,20 +25,18 @@ My technical focus is Backend and Systems Programming, with an interest in “un
 
 ## 🛠️ Tech Stack & Skills
 
-> GitHub Markdown tables support links and formatting inside cells, so dá para manter os badges organizados sem gambiarra. [web:13]
-
 | **Core Focus (Systems & Backend)** | **Web & Fullstack** | **Tools & DevOps** |
 |:---:|:---:|:---:|
-| <div align="center"> \
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a><br /> \
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a> \
-  </div> | <div align="center"> \
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a><br /> \
-  <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></a> \
-  </div> | <div align="center"> \
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a><br /> \
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a> \
-  </div> |
+| <div align="center">
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a><br />
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+</div> | <div align="center">
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a><br />
+<a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></a>
+</div> | <div align="center">
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a><br />
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+</div> |
 
 ---
 
