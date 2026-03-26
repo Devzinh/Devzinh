@@ -31,7 +31,7 @@ Handling high-stakes operations helped me build strong discipline, ownership, an
 
 🇧🇷 Busco oportunidades para atuar com **Backend** e **programação de sistemas**, criando soluções robustas, seguras e bem estruturadas.
 
-🇺🇸 I’m looking for opportunities in **Backend** and **Systems Programming**, focused on building robust, secure, and well-structured solutions.
+🇺🇸 I'm looking for opportunities in **Backend** and **Systems Programming**, focused on building robust, secure, and well-structured solutions.
 
 ---
 
@@ -56,19 +56,19 @@ Handling high-stakes operations helped me build strong discipline, ownership, an
 
 ## 📚 Current Studies / Estudos Atuais
 
-- 🏗️ **Software Architecture** & Clean Code
-- 🔐 **Security Fundamentals** and low-level analysis
-- 🐍 **Python automation** for productivity workflows
-- ⚙️ **Data structures and performance-oriented thinking**
+- 🏗️ **Software Architecture** & Clean Code / **Arquitetura de Software** & Clean Code
+- 🔐 **Security Fundamentals** and low-level analysis / **Fundamentos de Segurança** e análise de baixo nível
+- 🐍 **Python automation** for productivity workflows / **Automação com Python** para fluxos de produtividade
+- ⚙️ **Data structures** and performance-oriented thinking / **Estruturas de dados** e pensamento orientado a performance
 
 ---
 
 ## 🧩 Highlights / Diferenciais
 
-- ✅ Experiência profissional em ambiente de alta criticidade
-- ✅ Perfil disciplinado e orientado a processo
-- ✅ Facilidade para aprender e evoluir com feedback
-- ✅ Interesse genuíno em fundamentos de computação
+- ✅ Professional experience in high-criticality environments / Experiência profissional em ambiente de alta criticidade
+- ✅ Disciplined, process-oriented profile / Perfil disciplinado e orientado a processo
+- ✅ Quick learner, open to feedback and continuous growth / Facilidade para aprender e evoluir com feedback
+- ✅ Genuine interest in computer science fundamentals / Interesse genuíno em fundamentos de computação
 
 ---
 
@@ -103,6 +103,5 @@ Handling high-stakes operations helped me build strong discipline, ownership, an
 </div>
 
 <div align="center">
-  <sub>🚀 Sempre aberto a conexões, colaborações e oportunidades.</sub>
+  <sub>🚀 Always open to connections, collaborations and opportunities. / Sempre aberto a conexões, colaborações e oportunidades.</sub>
 </div>
-
