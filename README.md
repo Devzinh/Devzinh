@@ -11,7 +11,9 @@
     <a href="mailto:lookplays7@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
     </a>
+    <a href="https://github.com/Devzinh">
     <img src="https://img.shields.io/badge/Open_to_Work-Ready_for_Hire-success?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work badge" />
+    </a>
   </p>
 </div>
 
