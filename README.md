@@ -93,6 +93,12 @@ Handling high-stakes operations helped me build strong discipline, ownership, an
 
 ---
 
+## ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 📬 Contact / Contato
 
 <div align="center">
