@@ -69,7 +69,7 @@ Estou buscando minha primeira oportunidade como **Desenvolvedor Backend Júnior*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
 No activity tracked
 ```
