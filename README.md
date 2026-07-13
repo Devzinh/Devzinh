@@ -19,9 +19,9 @@
 
 ## Sobre mim
 
-Estudante de **Engenharia de Software** com foco em **backend** e programação de sistemas. Antes de programar, trabalhei com operação de tráfego portuário — ambiente onde errar custa caro. Trouxe disso o hábito de ser metódico: entender o problema antes de mexer, documentar o que faço e não entregar nada pela metade.
+Estudante de **Engenharia de Software** com foco em **backend** e programação de sistemas. Antes de programar, trabalhei com operação de tráfego portuário, ambiente onde errar custa caro. Trouxe disso o hábito de ser metódico: entender o problema antes de mexer, documentar o que faço e não entregar nada pela metade.
 
-Hoje passo a maior parte do tempo entre **C#**, **Python** e **Go**, com interesse forte em segurança, forense de sistemas Windows e ferramentas de linha de comando. Gosto de construir coisas que resolvem incômodos reais — geralmente os meus primeiros.
+Hoje passo a maior parte do tempo entre **C#**, **Python** e **Go**, com interesse forte em segurança, forense de sistemas Windows e ferramentas de linha de comando. Gosto de construir coisas que resolvem incômodos reais, geralmente os meus primeiros.
 
 Estou buscando minha primeira oportunidade como **Desenvolvedor Backend Júnior**.
 
@@ -30,7 +30,6 @@ Estou buscando minha primeira oportunidade como **Desenvolvedor Backend Júnior*
 | Projeto | Descrição | Stack |
 | --------- | ----------- | ------- |
 | [GhostTrace](https://github.com/Devzinh/GhostTrace) | Scanner forense para Windows que encontra o que o "Desinstalar" deixa para trás — registro, arquivos órfãos e rastros de programas removidos | C# |
-| [WindowsDebloat](https://github.com/Devzinh/WindowsDebloat) | Scripts para remover apps pré-instalados e telemetria do Windows | PowerShell |
 | [Low-Profile-Fingerprint](https://github.com/Devzinh/Low-Profile-Fingerprint) | Userscript que reduz a unicidade do fingerprint do navegador | JavaScript |
 | [pert-calculator](https://github.com/Devzinh/pert-calculator) | Calculadora PERT de linha de comando para estimativa de prazos com três pontos | Python |
 
