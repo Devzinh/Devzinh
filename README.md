@@ -24,7 +24,7 @@ Calculadora PERT de linha de comando para estimativa de prazos com três pontos.
 
 ## Stack
 
-C#/.NET, Python, Lua, Java. Git, Docker, SQL.
+C#/.NET, Python e Lua.
 
 Estudando no momento: arquitetura de software, estruturas de dados e fundamentos de segurança e análise de baixo nível.
 
