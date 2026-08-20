@@ -30,4 +30,4 @@ Estudando no momento: arquitetura de software, estruturas de dados e fundamentos
 
 ## Contato
 
-[E-mail](mailto:SEU_EMAIL_PROFISSIONAL) · [LinkedIn](https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_PROFISSIONAL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/)
