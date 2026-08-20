@@ -1,8 +1,9 @@
 # Rony Gabriel
 
-Estudante de Engenharia de Software, com foco em backend e programação de sistemas.
+Estudante de [Engenharia de Software](https://pt.wikipedia.org/wiki/Engenharia_de_software), com foco em backend e programação de sistemas.
 
-Trabalho com controle de tráfego em operação portuária, um ambiente onde erro de procedimento trava uma fila inteira. Trouxe disso o hábito de entender o problema antes de mexer, documentar o que faço e não entregar nada pela metade.
+Trabalho com controle de tráfego em operação portuária, um ambiente onde erro de procedimento trava uma fila inteira. 
+Trouxe disso o hábito de entender o problema antes de mexer, documentar o que faço e não entregar nada pela metade.
 
 Hoje escrevo principalmente **C#** e **Python**, com interesse em segurança, forense de sistemas Windows e ferramentas de linha de comando. Construo coisas que resolvem incômodos reais, normalmente os meus primeiros.
 
