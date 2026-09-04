@@ -27,13 +27,6 @@ APIs e projetos em Python, C# e segurança.
 </tr>
 </table>
 
-<a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin">
-</a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white">
-</a>
-
 </div>
 
 ---
@@ -128,6 +121,11 @@ utilizando o método PERT e estimativas de três pontos.
 
 ### Contato
 
-[LinkedIn](SEU_LINK) · [GitHub](https://github.com/Devzinh)
+<a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin">
+</a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white">
+</a>
 
 </div>
