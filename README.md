@@ -1,11 +1,31 @@
 <div align="center">
 
-# Rony Gabriel
+<table>
+<tr>
+<td width="65%">
 
-### Software Engineering • Backend • Cybersecurity
+<h1>Rony Gabriel</h1>
 
-Estudante de Engenharia de Software construindo ferramentas,
-APIs e projetos voltados para backend, automação e segurança.
+<strong>Software Engineering • Backend • Cybersecurity</strong>
+
+<p>
+Estudante de Engenharia de Software desenvolvendo ferramentas,
+APIs e projetos em Python, C# e segurança.
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img
+  src="./assets/devzinh-mascot.png"
+  width="220"
+  alt="Devzinh Mascot"
+/>
+
+</td>
+</tr>
+</table>
 
 <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin">
