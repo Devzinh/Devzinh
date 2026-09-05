@@ -6,126 +6,84 @@
 
 <h1>Rony Gabriel</h1>
 
-<strong>Software Engineering • Backend • Cybersecurity</strong>
+<strong>Python • C#/.NET • Automação • Segurança de sistemas</strong>
 
 <p>
-Estudante de Engenharia de Software desenvolvendo ferramentas,
-APIs e projetos em Python, C# e segurança.
+Desenvolvo ferramentas para investigar artefatos no Windows,
+integrar sessões de navegador a clientes de IA e apoiar estimativas de projetos.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">LinkedIn</a> ·
+<a href="https://github.com/Devzinh?tab=repositories">Repositórios</a>
 </p>
 
 </td>
-
 <td width="35%" align="center">
-
-<img
-  src="./assets/devzinh-mascot.png"
-  width="220"
-  alt="Devzinh Mascot"
-/>
-
+<img src="./assets/devzinh-mascot.png" width="220" alt="Mascote Devzinh">
 </td>
 </tr>
 </table>
 
 </div>
 
----
-
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software**, com foco em desenvolvimento
-backend e segurança de sistemas.
+Meu foco é transformar problemas concretos em ferramentas úteis, com interesse em **desenvolvimento backend, automação e cibersegurança**.
 
-Atualmente desenvolvo principalmente com **Python e C#/.NET**, estudando
-arquitetura de software, estruturas de dados, redes e fundamentos de
-cibersegurança.
-
-Tenho interesse especial em construir ferramentas que resolvam problemas
-reais, principalmente automação, análise de sistemas e aplicações backend.
-
-Atualmente busco minha primeira oportunidade profissional na área de
-tecnologia.
-
----
+Nos meus projetos, trabalho principalmente com **Python e C#/.NET**: desde aplicações de terminal até integração com navegadores e coleta de artefatos do Windows. Validação de entradas, tratamento de erros e testes fazem parte desse aprendizado.
 
 ## Projetos em destaque
 
-### 🔎 GhostTrace
-**C# • .NET • Windows • Digital Forensics**
+### 🔎 [GhostTrace](https://github.com/Devzinh/GhostTrace)
+**C# · .NET · Windows · Análise forense**
 
-Ferramenta de análise forense para Windows destinada a localizar artefatos
-deixados por aplicações após sua remoção.
+Ferramenta local para investigar rastros de software, mecanismos de persistência e artefatos de execução no Windows.
 
-- Análise de arquivos e diretórios residuais
-- Inspeção do Registro do Windows
-- Detecção de tarefas agendadas
-- Estudo de persistência baseado no MITRE ATT&CK
-- Arquitetura modular para novos mecanismos de detecção
+- Inspeção do Registro, serviços, tarefas agendadas e arquivos residuais.
+- Coleta de evidências como Prefetch, Shimcache e histórico de atividade.
+- Relatórios locais para revisão dos achados, com coleta somente leitura por padrão.
 
-[Ver projeto →](https://github.com/Devzinh/GhostTrace)
+**Na prática:** programação de sistemas, organização de coletores e tratamento de limitações de acesso a evidências.
 
----
+### 🌐 [SessionBridge](https://github.com/Devzinh/sessionbridge)
+**Python · MCP · Playwright · Chrome DevTools Protocol**
 
-### 🕵️ Low Profile Fingerprint
-**JavaScript • Browser Security • Privacy**
+Servidor MCP que mantém uma sessão visível e persistente de navegador para clientes de IA, permitindo que uma pessoa conclua etapas manuais e o fluxo continue no mesmo contexto.
 
-Userscript experimental criado para estudar técnicas relacionadas a
-browser fingerprinting e redução da unicidade do navegador.
+- Navegador dedicado com preservação de abas, cookies e autenticação.
+- Inspeção de estado e leitura limitada do conteúdo visível.
+- Espera por intervenção humana em login ou verificações, com timeout.
 
-- Manipulação de vetores utilizados em fingerprinting
-- Estudo de técnicas de identificação de navegadores
-- Foco educacional em privacidade e segurança web
+**Na prática:** integração via protocolos, gerenciamento de sessões e automação com participação humana.
 
-[Ver projeto →](https://github.com/Devzinh/Low-Profile-Fingerprint)
+### 📊 [PERT Calculator](https://github.com/Devzinh/pert-calculator)
+**Python · CLI · Estimativas de projetos**
 
----
+Calculadora de terminal que usa estimativas otimista, mais provável e pessimista para apoiar o planejamento de prazos.
 
-### 📊 PERT Calculator
-**Python • CLI**
+- Cadastro de múltiplas atividades e escolha da unidade de tempo.
+- Cálculo de estimativa PERT, desvio padrão e variância.
+- Relatório por atividade e validação da ordem das estimativas.
 
-Calculadora de linha de comando para estimativa de duração de projetos
-utilizando o método PERT e estimativas de três pontos.
+**Na prática:** aplicação de fórmulas, validação de dados e apresentação de resultados no terminal.
 
-[Ver projeto →](https://github.com/Devzinh/pert-calculator)
+## Fundamentos em prática
 
----
+| Repositório | O que reúne |
+| --- | --- |
+| [Exercícios C#](https://github.com/Devzinh/Exercicios-CSharp) | Lógica, recursão, ordenação, orientação a objetos e uma calculadora de frete com consumo de APIs de geolocalização e rotas. |
+| [Estudos na DIO](https://github.com/Devzinh/Dio.me) | Códigos de cursos, bootcamps e projetos realizados na plataforma. |
 
-## Tecnologias
+## Tecnologias aplicadas
 
-**Linguagens**
+| Área | Tecnologias e uso |
+| --- | --- |
+| Linguagens | **Python** para automação e ferramentas CLI; **C#** para aplicações .NET e integração com Windows. |
+| Navegadores e integração | **Playwright**, **MCP** e **CDP** no SessionBridge; consumo de **APIs HTTP** nos exercícios C#. |
+| Sistemas e segurança | Artefatos do **Windows**, Registro, serviços e tarefas agendadas no GhostTrace. |
+| Desenvolvimento | **Git**, **GitHub**, testes automatizados e scripts **PowerShell**. |
 
-`Python` `C#` `Java` `JavaScript` `Lua` `PowerShell`
+## Contato
 
-**Backend e ferramentas**
-
-`.NET` `Git` `GitHub` `Linux` `WSL` `Windows`
-
-**Estudando**
-
-`APIs REST` `Arquitetura de Software` `Estruturas de Dados`
-`Redes` `Cybersecurity`
-
----
-
-## Atualmente
-
-- Engenharia de Software
-- Desenvolvimento backend
-- Cibersegurança e redes
-- Construindo projetos para consolidar fundamentos
-- Buscando oportunidade como **Estagiário / Desenvolvedor Júnior / Suporte Técnico**
-
----
-
-<div align="center">
-
-### Contato
-
-<a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin">
-</a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white">
-</a>
-
-</div>
+Para conversar sobre os projetos ou oportunidades em tecnologia, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/).
