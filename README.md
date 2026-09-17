@@ -1,89 +1,104 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="65%">
+<img src="./assets/devzinh-mascot.png" width="120" alt="Mascote Devzinh: uma raposa com notebook e detalhes em ciano">
 
-<h1>Rony Gabriel</h1>
+# Oi, eu sou o Rony.
 
-<strong>Python • C#/.NET • Automação • Segurança de sistemas</strong>
+**Código para investigar, automatizar e simplificar.**
 
-<p>
-Desenvolvo ferramentas para investigar artefatos no Windows,
-integrar sessões de navegador a clientes de IA e apoiar estimativas de projetos.
-</p>
+Estudante de Engenharia de Software · Python & C#/.NET<br>
+Backend, automação e cibersegurança na prática.
 
 <p>
-<a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">LinkedIn</a> ·
-<a href="https://github.com/Devzinh?tab=repositories">Repositórios</a>
+  <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-087E8B?style=for-the-badge" alt="Vamos conversar no LinkedIn"></a>
+  <a href="https://github.com/Devzinh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_o_c%C3%B3digo-C65D16?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus repositórios no GitHub"></a>
 </p>
 
-</td>
-<td width="35%" align="center">
-<img src="./assets/devzinh-mascot.png" width="220" alt="Mascote Devzinh">
-</td>
-</tr>
-</table>
+[Sobre mim](#sobre-mim) · [Projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias) · [Contato](#vamos-conversar)
 
 </div>
 
+---
+
 ## Sobre mim
 
-Meu foco é transformar problemas concretos em ferramentas úteis, com interesse em **desenvolvimento backend, automação e cibersegurança**.
+Gosto de entender o que acontece por trás de um sistema — e transformar essa curiosidade em ferramentas úteis.
 
-Nos meus projetos, trabalho principalmente com **Python e C#/.NET**: desde aplicações de terminal até integração com navegadores e coleta de artefatos do Windows. Validação de entradas, tratamento de erros e testes fazem parte desse aprendizado.
+Meus projetos passam por **investigação de artefatos do Windows**, **integração entre IA e navegadores** e **automação no terminal**. É construindo essas ferramentas que aprofundo meus conhecimentos em Python e C#/.NET, com atenção à validação de dados, ao tratamento de erros e aos testes.
 
 ## Projetos em destaque
 
-### 🔎 [GhostTrace](https://github.com/Devzinh/GhostTrace)
-**C# · .NET · Windows · Análise forense**
+Três problemas diferentes. Três formas de colocar código em prática.
 
-Ferramenta local para investigar rastros de software, mecanismos de persistência e artefatos de execução no Windows.
+### 01 · GhostTrace
+**O que um software deixa para trás no Windows?**
 
-- Inspeção do Registro, serviços, tarefas agendadas e arquivos residuais.
-- Coleta de evidências como Prefetch, Shimcache e histórico de atividade.
-- Relatórios locais para revisão dos achados, com coleta somente leitura por padrão.
+Ferramenta local de análise forense que reúne rastros de execução, mecanismos de persistência e arquivos residuais para apoiar uma investigação.
 
-**Na prática:** programação de sistemas, organização de coletores e tratamento de limitações de acesso a evidências.
+`C#` `.NET` `Windows` `Análise forense`
 
-### 🌐 [SessionBridge](https://github.com/Devzinh/sessionbridge)
-**Python · MCP · Playwright · Chrome DevTools Protocol**
+↳ Inspeção do Registro, serviços e tarefas agendadas, com resultados organizados para revisão.
 
-Servidor MCP que mantém uma sessão visível e persistente de navegador para clientes de IA, permitindo que uma pessoa conclua etapas manuais e o fluxo continue no mesmo contexto.
+**[Conheça o GhostTrace →](https://github.com/Devzinh/GhostTrace)**
 
-- Navegador dedicado com preservação de abas, cookies e autenticação.
-- Inspeção de estado e leitura limitada do conteúdo visível.
-- Espera por intervenção humana em login ou verificações, com timeout.
+---
 
-**Na prática:** integração via protocolos, gerenciamento de sessões e automação com participação humana.
+### 02 · SessionBridge
+**Uma automação precisa de você. E depois?**
 
-### 📊 [PERT Calculator](https://github.com/Devzinh/pert-calculator)
-**Python · CLI · Estimativas de projetos**
+Servidor MCP que mantém uma sessão de navegador visível e persistente. Você conclui etapas manuais, como login, e o cliente de IA continua no mesmo contexto.
 
-Calculadora de terminal que usa estimativas otimista, mais provável e pessimista para apoiar o planejamento de prazos.
+`Python` `MCP` `Playwright` `CDP`
 
-- Cadastro de múltiplas atividades e escolha da unidade de tempo.
-- Cálculo de estimativa PERT, desvio padrão e variância.
-- Relatório por atividade e validação da ordem das estimativas.
+↳ Preservação de abas e autenticação, com espera limitada por tempo para a intervenção humana.
 
-**Na prática:** aplicação de fórmulas, validação de dados e apresentação de resultados no terminal.
+**[Conheça o SessionBridge →](https://github.com/Devzinh/sessionbridge)**
 
-## Fundamentos em prática
+---
 
-| Repositório | O que reúne |
-| --- | --- |
-| [Exercícios C#](https://github.com/Devzinh/Exercicios-CSharp) | Lógica, recursão, ordenação, orientação a objetos e uma calculadora de frete com consumo de APIs de geolocalização e rotas. |
-| [Estudos na DIO](https://github.com/Devzinh/Dio.me) | Códigos de cursos, bootcamps e projetos realizados na plataforma. |
+### 03 · PERT Calculator
+**Como estimar um prazo quando existe incerteza?**
 
-## Tecnologias aplicadas
+Calculadora de terminal que combina os cenários otimista, mais provável e pessimista para apoiar o planejamento de atividades.
 
-| Área | Tecnologias e uso |
-| --- | --- |
-| Linguagens | **Python** para automação e ferramentas CLI; **C#** para aplicações .NET e integração com Windows. |
-| Navegadores e integração | **Playwright**, **MCP** e **CDP** no SessionBridge; consumo de **APIs HTTP** nos exercícios C#. |
-| Sistemas e segurança | Artefatos do **Windows**, Registro, serviços e tarefas agendadas no GhostTrace. |
-| Desenvolvimento | **Git**, **GitHub**, testes automatizados e scripts **PowerShell**. |
+`Python` `CLI` `PERT`
 
-## Contato
+↳ Múltiplas atividades, validação das estimativas e relatórios com prazo esperado, desvio padrão e variância.
 
-Para conversar sobre os projetos ou oportunidades em tecnologia, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/).
+**[Conheça a PERT Calculator →](https://github.com/Devzinh/pert-calculator)**
+
+## Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-17212B?style=for-the-badge&logo=python&logoColor=FFD166" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-17212B?style=for-the-badge&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-17212B?style=for-the-badge&logo=dotnet&logoColor=BBA6FF" alt=".NET">
+  <img src="https://img.shields.io/badge/Git-17212B?style=for-the-badge&logo=git&logoColor=FF9857" alt="Git">
+</p>
+
+**Sistemas e automação** · Windows, PowerShell e ferramentas de terminal.<br>
+**Navegadores e integração** · Playwright, MCP e Chrome DevTools Protocol.
+
+<details>
+<summary><strong>Mais do meu aprendizado</strong></summary>
+
+Além dos projetos acima, mantenho repositórios para praticar fundamentos e registrar estudos:
+
+- **[Exercícios C#](https://github.com/Devzinh/Exercicios-CSharp)** — lógica, orientação a objetos, algoritmos e consumo de APIs.
+- **[Estudos na DIO](https://github.com/Devzinh/Dio.me)** — códigos de cursos, bootcamps e projetos da plataforma.
+
+</details>
+
+---
+
+<div align="center">
+
+## Vamos conversar?
+
+Tem uma ideia, uma pergunta sobre os projetos ou uma oportunidade em tecnologia?<br>
+**[Me encontre no LinkedIn →](https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/)**
+
+<br>
+<sub>Rony Gabriel · Devzinh</sub>
+
+</div>
