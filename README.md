@@ -7,6 +7,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/"><img src="https://img.shields.io/badge/LinkedIn-Rony_Gabriel-0F141C?style=flat-square&logo=linkedin&logoColor=2CD3EA" alt="LinkedIn"></a>
+  <a href="https://wa.me/5512997429538"><img src="https://img.shields.io/badge/WhatsApp-%2812%29_99742--9538-0F141C?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp (12) 99742-9538"></a>
   <a href="https://github.com/Devzinh?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-Devzinh-0F141C?style=flat-square&logo=github&logoColor=FF8A1F" alt="Repositórios no GitHub"></a>
 </p>
 
@@ -17,6 +18,8 @@
 Gosto de abrir a caixa-preta: entender o que um sistema faz por baixo e escrever a ferramenta que eu queria ter quando comecei a investigar.
 
 Hoje isso significa **forense no Windows**, **automação de navegador com IA** e **utilitários de terminal**. Escrevo em Python e C#/.NET, e o que mais tenho praticado é validar entrada, tratar erro direito e testar antes de chamar de pronto.
+
+Uso IA como ferramenta de implementação. A arquitetura, as decisões técnicas e a revisão do que vai para o repositório ficam comigo.
 
 ## Projetos
 
@@ -76,5 +79,5 @@ Hoje isso significa **forense no Windows**, **automação de navegador com IA** 
 </picture>
 
 <div align="center">
-<sub>Tem uma ideia, uma dúvida sobre os projetos ou uma vaga? <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">Fala comigo no LinkedIn</a>.</sub>
+<sub>Tem uma ideia, uma dúvida sobre os projetos ou uma vaga? Fala comigo no <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">LinkedIn</a> ou no <a href="https://wa.me/5512997429538">WhatsApp</a>.</sub>
 </div>

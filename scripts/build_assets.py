@@ -259,7 +259,7 @@ def ghosttrace(theme):
     t = s.t
     panel(s)
     card_text(
-        s, 52, 70, "01 · DESTAQUE", "GhostTrace",
+        s, 52, 70, "01", "GhostTrace",
         "O que um software deixa para trás no Windows?",
         ["Análise forense local: reúne rastros de execução,",
          "persistência e arquivos residuais para a investigação."],
