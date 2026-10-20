@@ -292,7 +292,7 @@ def ghosttrace(theme):
         f'fill="{t["cyan"]}" fill-opacity="0.08"/>'
     )
     s.css.append(
-        ".row{opacity:0;animation:row .35s ease-out both}"
+        ".row{animation:row .35s ease-out both}"
         "@keyframes row{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}"
         ".scan{animation:scan 5s ease-in-out .5s infinite}"
         "@keyframes scan{0%{transform:translateY(0);opacity:0}8%{opacity:1}"
