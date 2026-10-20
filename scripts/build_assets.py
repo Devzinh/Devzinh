@@ -6,8 +6,13 @@ via <img> no GitHub não consegue buscar fontes externas.
     pip install fonttools brotli pillow
     python scripts/build_assets.py
 
-Caminhos das fontes podem ser trocados por variáveis de ambiente
-(INTER_DIR, JETBRAINS_DIR). Ambas são OFL.
+Requer Inter (Inter-Medium/SemiBold/ExtraBold.otf) e JetBrains Mono
+(JetBrainsMono-Regular/Bold.ttf), ambas OFL:
+    https://github.com/rsms/inter/releases
+    https://github.com/JetBrains/JetBrainsMono/releases
+Os padrões são os caminhos dos pacotes Debian/Ubuntu (fonts-inter,
+fonts-jetbrains-mono); em outro sistema, aponte INTER_DIR e JETBRAINS_DIR
+para as pastas com esses arquivos.
 """
 
 import base64
