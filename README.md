@@ -1,104 +1,83 @@
 <div align="center">
 
-<img src="./assets/devzinh-mascot.png" width="120" alt="Mascote Devzinh: uma raposa com notebook e detalhes em ciano">
-
-# Oi, eu sou o Rony.
-
-**Código para investigar, automatizar e simplificar.**
-
-Estudante de Engenharia de Software · Python & C#/.NET<br>
-Backend, automação e cibersegurança na prática.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Rony Gabriel, estudante de Engenharia de Software (Python e C#/.NET), ao lado do mascote Devzinh: uma raposa de moletom com notebook">
+</picture>
 
 <p>
-  <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-087E8B?style=for-the-badge" alt="Vamos conversar no LinkedIn"></a>
-  <a href="https://github.com/Devzinh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_o_c%C3%B3digo-C65D16?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus repositórios no GitHub"></a>
+  <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/"><img src="https://img.shields.io/badge/LinkedIn-Rony_Gabriel-0F141C?style=flat-square&logo=linkedin&logoColor=2CD3EA" alt="LinkedIn"></a>
+  <a href="https://wa.me/5512997429538"><img src="https://img.shields.io/badge/WhatsApp-%2812%29_99742--9538-0F141C?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp (12) 99742-9538"></a>
+  <a href="https://github.com/Devzinh?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-Devzinh-0F141C?style=flat-square&logo=github&logoColor=FF8A1F" alt="Repositórios no GitHub"></a>
 </p>
-
-[Sobre mim](#sobre-mim) · [Projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias) · [Contato](#vamos-conversar)
 
 </div>
 
----
+## Sobre
 
-## Sobre mim
+Gosto de abrir a caixa-preta: entender o que um sistema faz por baixo e escrever a ferramenta que eu queria ter quando comecei a investigar.
 
-Gosto de entender o que acontece por trás de um sistema — e transformar essa curiosidade em ferramentas úteis.
+Hoje isso significa **forense no Windows**, **automação de navegador com IA** e **utilitários de terminal**. Escrevo em Python e C#/.NET, e o que mais tenho praticado é validar entrada, tratar erro direito e testar antes de chamar de pronto.
 
-Meus projetos passam por **investigação de artefatos do Windows**, **integração entre IA e navegadores** e **automação no terminal**. É construindo essas ferramentas que aprofundo meus conhecimentos em Python e C#/.NET, com atenção à validação de dados, ao tratamento de erros e aos testes.
+Uso IA como ferramenta de implementação. A arquitetura, as decisões técnicas e a revisão do que vai para o repositório ficam comigo.
 
-## Projetos em destaque
+## Projetos
 
-Três problemas diferentes. Três formas de colocar código em prática.
+<a href="https://github.com/Devzinh/GhostTrace">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-ghosttrace-dark.svg">
+    <img src="./assets/card-ghosttrace-light.svg" width="100%" alt="GhostTrace: ferramenta local de análise forense que inspeciona Registro, serviços, tarefas agendadas e arquivos residuais no Windows. C#, .NET.">
+  </picture>
+</a>
 
-### 01 · GhostTrace
-**O que um software deixa para trás no Windows?**
+<a href="https://github.com/Devzinh/sessionbridge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-sessionbridge-dark.svg">
+    <img src="./assets/card-sessionbridge-light.svg" width="49%" alt="SessionBridge: servidor MCP que mantém uma sessão de navegador visível e persistente para você concluir etapas manuais, como login. Python, Playwright, CDP.">
+  </picture>
+</a>
+<a href="https://github.com/Devzinh/pert-calculator">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-pert-dark.svg">
+    <img src="./assets/card-pert-light.svg" width="49%" alt="PERT Calculator: calculadora de terminal que estima prazos a partir dos cenários otimista, mais provável e pessimista. Python.">
+  </picture>
+</a>
 
-Ferramenta local de análise forense que reúne rastros de execução, mecanismos de persistência e arquivos residuais para apoiar uma investigação.
-
-`C#` `.NET` `Windows` `Análise forense`
-
-↳ Inspeção do Registro, serviços e tarefas agendadas, com resultados organizados para revisão.
-
-**[Conheça o GhostTrace →](https://github.com/Devzinh/GhostTrace)**
-
----
-
-### 02 · SessionBridge
-**Uma automação precisa de você. E depois?**
-
-Servidor MCP que mantém uma sessão de navegador visível e persistente. Você conclui etapas manuais, como login, e o cliente de IA continua no mesmo contexto.
-
-`Python` `MCP` `Playwright` `CDP`
-
-↳ Preservação de abas e autenticação, com espera limitada por tempo para a intervenção humana.
-
-**[Conheça o SessionBridge →](https://github.com/Devzinh/sessionbridge)**
-
----
-
-### 03 · PERT Calculator
-**Como estimar um prazo quando existe incerteza?**
-
-Calculadora de terminal que combina os cenários otimista, mais provável e pessimista para apoiar o planejamento de atividades.
-
-`Python` `CLI` `PERT`
-
-↳ Múltiplas atividades, validação das estimativas e relatórios com prazo esperado, desvio padrão e variância.
-
-**[Conheça a PERT Calculator →](https://github.com/Devzinh/pert-calculator)**
-
-## Tecnologias
+## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-17212B?style=for-the-badge&logo=python&logoColor=FFD166" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-17212B?style=for-the-badge&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-17212B?style=for-the-badge&logo=dotnet&logoColor=BBA6FF" alt=".NET">
-  <img src="https://img.shields.io/badge/Git-17212B?style=for-the-badge&logo=git&logoColor=FF9857" alt="Git">
+  <img src="https://img.shields.io/badge/Python-0F141C?style=flat-square&logo=python&logoColor=FFD166" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-0F141C?style=flat-square" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-0F141C?style=flat-square&logo=dotnet&logoColor=BBA6FF" alt=".NET">
+  <img src="https://img.shields.io/badge/Playwright-0F141C?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright">
+  <img src="https://img.shields.io/badge/PowerShell-0F141C?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Windows-0F141C?style=flat-square&logo=windows&logoColor=2CD3EA" alt="Windows">
+  <img src="https://img.shields.io/badge/Git-0F141C?style=flat-square&logo=git&logoColor=FF8A1F" alt="Git">
 </p>
 
-**Sistemas e automação** · Windows, PowerShell e ferramentas de terminal.<br>
-**Navegadores e integração** · Playwright, MCP e Chrome DevTools Protocol.
-
 <details>
-<summary><strong>Mais do meu aprendizado</strong></summary>
+<summary><strong>Esta semana no editor</strong></summary>
 
-Além dos projetos acima, mantenho repositórios para praticar fundamentos e registrar estudos:
-
-- **[Exercícios C#](https://github.com/Devzinh/Exercicios-CSharp)** — lógica, orientação a objetos, algoritmos e consumo de APIs.
-- **[Estudos na DIO](https://github.com/Devzinh/Dio.me)** — códigos de cursos, bootcamps e projetos da plataforma.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
 
----
+<details>
+<summary><strong>Repositórios de estudo</strong></summary>
 
-<div align="center">
+- **[Exercícios C#](https://github.com/Devzinh/Exercicios-CSharp)**: lógica, orientação a objetos, algoritmos e consumo de APIs.
+- **[Estudos na DIO](https://github.com/Devzinh/Dio.me)**: códigos de cursos, bootcamps e projetos da plataforma.
 
-## Vamos conversar?
-
-Tem uma ideia, uma pergunta sobre os projetos ou uma oportunidade em tecnologia?<br>
-**[Me encontre no LinkedIn →](https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/)**
+</details>
 
 <br>
-<sub>Rony Gabriel · Devzinh</sub>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img src="./assets/footer-light.svg" width="100%" alt="Obrigado pela visita. O mascote Devzinh espia pela borda.">
+</picture>
+
+<div align="center">
+<sub>Tem uma ideia, uma dúvida sobre os projetos ou uma vaga? Fala comigo no <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">LinkedIn</a> ou no <a href="https://wa.me/5512997429538">WhatsApp</a>.</sub>
 </div>
