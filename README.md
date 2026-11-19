@@ -2,24 +2,51 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Rony Gabriel, estudante de Engenharia de Software (Python e C#/.NET), ao lado do mascote Devzinh: uma raposa de moletom com notebook">
+  <img src="./assets/header-light.svg" width="100%" alt="Rony Gabriel, técnico de Suporte N1/N2, NOC e Infraestrutura, ao lado do mascote Devzinh: uma raposa de moletom com notebook">
 </picture>
 
 <p>
   <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/"><img src="https://img.shields.io/badge/LinkedIn-Rony_Gabriel-0F141C?style=flat-square&logo=linkedin&logoColor=2CD3EA" alt="LinkedIn"></a>
   <a href="https://wa.me/5512997429538"><img src="https://img.shields.io/badge/WhatsApp-%2812%29_99742--9538-0F141C?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp (12) 99742-9538"></a>
-  <a href="https://github.com/Devzinh?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-Devzinh-0F141C?style=flat-square&logo=github&logoColor=FF8A1F" alt="Repositórios no GitHub"></a>
+  <img src="https://img.shields.io/badge/Rio_de_Janeiro_ou_remoto-0F141C?style=flat-square&logo=googlemaps&logoColor=FF8A1F" alt="Rio de Janeiro ou remoto">
 </p>
 
 </div>
 
 ## Sobre
 
-Gosto de abrir a caixa-preta: entender o que um sistema faz por baixo e escrever a ferramenta que eu queria ter quando comecei a investigar.
+Técnico de suporte com experiência prática em **NOC corporativo**: hoje atuo na **WEG, via Positivo S+**, fazendo triagem e diagnóstico de chamados no **ServiceNow**, monitorando switches core e roteadores **Cisco** e escalonando incidentes para as equipes de redes, servidores, cloud e para o Blue Team de segurança. **Splunk**, **FortiMail** e **Trellix Web Gateway** fazem parte da rotina.
 
-Hoje isso significa **forense no Windows**, **automação de navegador com IA** e **utilitários de terminal**. Escrevo em Python e C#/.NET, e o que mais tenho praticado é validar entrada, tratar erro direito e testar antes de chamar de pronto.
+Técnico em Informática, estudante de **Engenharia de Software** (UFBRA) e de **cibersegurança** (Santander Open Academy). Fora do expediente, escrevo ferramentas em C# e Python para entender o que acontece por baixo do sistema, principalmente forense no Windows e automação.
 
-Uso IA como ferramenta de implementação. A arquitetura, as decisões técnicas e a revisão do que vai para o repositório ficam comigo.
+> **Busco vaga de** NOC · Suporte N1/N2 · Help Desk · Infraestrutura · SOC N1, no **Rio de Janeiro** ou **remota**.
+
+## Experiência
+
+**Técnico de Suporte Jr (NOC)** · Positivo S+, alocado na WEG · out/2026 – atual
+
+- Triagem, diagnóstico e tratamento de **20 a 30 chamados por dia** no ServiceNow
+- Escalonamento de incidentes para as equipes N2 de redes, servidores e cloud e para o Blue Team
+- Monitoramento de switches core e roteadores Cisco e acompanhamento de incidentes de conectividade em filiais no Brasil e no exterior, junto aos técnicos locais
+- Liberação de endereços MAC em switches e acesso remoto a equipamentos de rede via PuTTY
+- Análise de eventos e e-mails com Splunk e FortiMail; categorização de sites no Trellix Web Gateway
+- Reinício de serviços em Windows Server e rondas presenciais no data center
+
+**Administrador de Servidor / Suporte Técnico** · Comunidade FluxoRP (~500 usuários) · 2019
+
+- Atendimento de tickets: triagem, resolução e escalonamento
+- Administração do servidor e investigação de denúncias de uso de hacks entre jogadores
+
+## Competências
+
+| Área | O que uso |
+| --- | --- |
+| **Redes e infraestrutura** | TCP/IP, IPv4/IPv6, DNS, switches, roteadores e APs Cisco, liberação de MAC, noções de configuração de switch (portas, trunk, shut/no shut), Wireshark (introdutório) |
+| **Segurança e monitoramento** | Splunk, FortiMail, Trellix Web Gateway, MITRE ATT&CK |
+| **ITSM e acesso remoto** | ServiceNow, SSH/PuTTY, ping, ipconfig |
+| **Sistemas operacionais** | Windows 10/11 (instalação, configuração, troubleshooting), Windows Server, Kali Linux em VMware (noções) |
+| **Programação** | Python e Lua (scripts e automações), C# (básico), PowerShell, Git |
+| **Atendimento** | Troubleshooting, triagem, categorização, atendimento a usuários e escalonamento de incidentes |
 
 ## Projetos
 
@@ -29,6 +56,8 @@ Uso IA como ferramenta de implementação. A arquitetura, as decisões técnicas
     <img src="./assets/card-ghosttrace-light.svg" width="100%" alt="GhostTrace: ferramenta local de análise forense que inspeciona Registro, serviços, tarefas agendadas e arquivos residuais no Windows. C#, .NET.">
   </picture>
 </a>
+
+**GhostTrace** é meu projeto de estudo em segurança defensiva: analisa tarefas agendadas, serviços e chaves de inicialização do Windows para apontar possíveis indícios de **persistência** ([MITRE ATT&CK T1053.005](https://attack.mitre.org/techniques/T1053/005/)). É o tipo de verificação que um analista faz ao investigar uma máquina suspeita.
 
 <a href="https://github.com/Devzinh/sessionbridge">
   <picture>
@@ -43,17 +72,15 @@ Uso IA como ferramenta de implementação. A arquitetura, as decisões técnicas
   </picture>
 </a>
 
-## Stack
+Também mantenho **automações em Python** que cuidam de rotinas internas e geram relatórios de uma loja online própria.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0F141C?style=flat-square&logo=python&logoColor=FFD166" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-0F141C?style=flat-square" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-0F141C?style=flat-square&logo=dotnet&logoColor=BBA6FF" alt=".NET">
-  <img src="https://img.shields.io/badge/Playwright-0F141C?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright">
-  <img src="https://img.shields.io/badge/PowerShell-0F141C?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Windows-0F141C?style=flat-square&logo=windows&logoColor=2CD3EA" alt="Windows">
-  <img src="https://img.shields.io/badge/Git-0F141C?style=flat-square&logo=git&logoColor=FF8A1F" alt="Git">
-</p>
+## Formação
+
+- **Engenharia de Software** · UFBRA · 2026 – 2030 (cursando)
+- **Cibersegurança do Zero à Prática** · Santander Open Academy · 2026 (em andamento)
+- **Técnico em Informática** · Microcamp · 2017 – 2019
+
+**Idiomas:** português nativo · inglês intermediário
 
 <details>
 <summary><strong>Esta semana no editor</strong></summary>
@@ -86,5 +113,5 @@ No activity tracked
 </picture>
 
 <div align="center">
-<sub>Tem uma ideia, uma dúvida sobre os projetos ou uma vaga? Fala comigo no <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">LinkedIn</a> ou no <a href="https://wa.me/5512997429538">WhatsApp</a>.</sub>
+<sub>Tem uma vaga de NOC, suporte ou infraestrutura? Fala comigo no <a href="https://www.linkedin.com/in/rony-gabriel-oliveira-873993187/">LinkedIn</a> ou no <a href="https://wa.me/5512997429538">WhatsApp</a>.</sub>
 </div>
