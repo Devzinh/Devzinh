@@ -163,7 +163,7 @@ def pills(s, x, y, labels, color, key="mono-400", size=15, gap=10):
 # ---------------------------------------------------------------- header
 
 def header(theme):
-    s = Svg(1200, 420, theme, "Rony Gabriel (Devzinh): Engenharia de Software, Python e C#/.NET")
+    s = Svg(1200, 420, theme, "Rony Gabriel (Devzinh): Suporte N1/N2, NOC e Infraestrutura")
     t = s.t
     panel(s)
 
@@ -214,9 +214,9 @@ def header(theme):
     s.text(x, 98, "~/devzinh", "mono-400", 18, t["cyan"])
     s.text(x + width("~/devzinh ", "mono-400", 18), 98, "❯ whoami", "mono-400", 18, t["muted"])
     s.text(x - 3, 178, "Rony Gabriel", "sans-800", 76, t["text"], extra='letter-spacing="-2"')
-    s.text(x, 222, "Engenharia de Software · Python & C#/.NET", "sans-500", 24, t["muted"])
+    s.text(x, 222, "Suporte N1/N2 · NOC · Infraestrutura", "sans-500", 24, t["muted"])
 
-    tag = "Código para investigar, automatizar e simplificar."
+    tag = "Monitorar, diagnosticar, escalar e resolver."
     s.text(x, 292, "›", "mono-700", 22, t["orange"])
     tx = x + 24
     tw = width(tag, "mono-400", 22)
@@ -240,7 +240,7 @@ def header(theme):
         "@keyframes blink{50%{opacity:0}}"
     )
 
-    pills(s, x, 360, ["backend", "automação", "segurança", "ferramentas de terminal"], t["cyan"])
+    pills(s, x, 360, ["noc", "suporte n1/n2", "redes", "monitoramento", "segurança"], t["cyan"])
     return s
 
 
